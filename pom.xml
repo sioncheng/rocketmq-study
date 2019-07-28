@@ -17,6 +17,7 @@
         <module>rocketmq-study-basic</module>
         <module>namesvr</module>
         <module>my-producer</module>
+        <module>commons</module>
     </modules>
 
 
